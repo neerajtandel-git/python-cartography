@@ -9,8 +9,8 @@ Part 2 covers custom layers with a glow effect.
 part 3 covers animations.
 
 ### Requirements:
-python 3.x
-folium
-pandas
-scipy
-numpy
+- python 3.x
+- folium
+- pandas
+- scipy
+- numpy
