@@ -1,4 +1,4 @@
-## A Tutorial on how to make Interactive Maps in Python
+## Interactive Maps in Python
 
 This repo contains the source code and jupyter notebooks that features about python cartography.
 
