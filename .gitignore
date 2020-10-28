@@ -3,4 +3,6 @@ venv
 201610-citibike-tripdata.csv
 JC-202008-citibike-tripdata.csv
 JC-201808-citibike-tripdata.csv
+geckodriver-v0.27.0-macos.tar.gz
+geckodriver.log
 
